@@ -1,7 +1,8 @@
 
 
 
-list1 =[range(10)]
+
+print("Fayzullo")
 
 
 
